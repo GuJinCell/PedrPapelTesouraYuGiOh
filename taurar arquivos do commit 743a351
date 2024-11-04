@@ -1,0 +1,35 @@
+[33mcommit f0e7f301c224daf3b906319387bb9b5ca74ba9d2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Celso.O.C <celso.ocampo.c@gmail.com>
+Date:   Mon Nov 4 00:23:47 2024 -0300
+
+    Remove js-yugioh-ass submodule
+
+[33mcommit 7adc1f94ff8fa4d60876fe7848bda15b291aa69f[m
+Author: Celso.O.C <celso.ocampo.c@gmail.com>
+Date:   Mon Nov 4 00:12:24 2024 -0300
+
+    Remove js-yugioh-assets directory
+
+[33mcommit 743a35199eb7a8b78dae822ac7c3521c95ca6da9[m
+Author: Celso.O.C <celso.ocampo.c@gmail.com>
+Date:   Sun Nov 3 23:52:31 2024 -0300
+
+    recriando a file com outro nome pra ver se assim algum arquivo entra
+
+[33mcommit ca6d5853d6ec3d55e436e0a5abe651f2c295bf4c[m
+Author: Celso.O.C <celso.ocampo.c@gmail.com>
+Date:   Sun Nov 3 23:44:14 2024 -0300
+
+    Atualizando referência do submódulo js-yugioh-assets
+
+[33mcommit 1d61081e9c7fb54e1f7e43521acea88764d2dba8[m
+Author: GuJinCell <celso.ocampo.c@gmail.com>
+Date:   Sun Nov 3 23:32:10 2024 -0300
+
+    Update README.md
+
+[33mcommit cb4eeec70efc78421c106c8af4a2a3ab04eb4ed7[m
+Author: Celso.O.C <celso.ocampo.c@gmail.com>
+Date:   Sun Nov 3 23:31:07 2024 -0300
+
+    first commit
